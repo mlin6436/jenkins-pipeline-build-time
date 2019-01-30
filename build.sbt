@@ -1,6 +1,6 @@
 scalaVersion := "2.12.8"
 
-name := "msm-jenkins-build-time"
+name := "jenkins-pipeline-build-time"
 organization := "com.mlin6436"
 version := "0.1"
 
